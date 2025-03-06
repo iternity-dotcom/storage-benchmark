@@ -33,7 +33,7 @@ curl -OL https://github.com/iternity-dotcom/storage-benchmark/raw/master/build/l
 #### Windows 64-bit x86
 
 ```
-curl -OL https://github.com/iternity-dotcom/storage-benchmark/raw/master/build/windows-amd64/storage-benchmark
+curl -OL https://github.com/iternity-dotcom/storage-benchmark/raw/master/build/windows-amd64/storage-benchmark.exe
 ```
 
 ### S3 Credentials
